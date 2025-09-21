@@ -21,7 +21,7 @@
 ### Features:
 * Custom FOV
 * Zoom FOV
-* Infinite Resources
+* Infinite Resources (Story & No Return Mode)
 * Infinite Trade Coins (No Return Mode)
 
 
